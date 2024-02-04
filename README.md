@@ -1,1 +1,2 @@
-# Sample-2
+Note: Not responsive , 
+Made only for practice purpose 
